@@ -10,3 +10,7 @@ Public repo to complete "Timestamp Microservice" exercise on freeCodeCamp
 - <ins>Passed</ins>: If the input date string is invalid, the API returns an object having the structure { error : "Invalid Date" }
 - <ins>Passed</ins>: An empty date parameter should return the current time in a JSON object with a unix key
 - <ins>Passed</ins>: An empty date parameter should return the current time in a JSON object with a utc key
+
+# Public display 
+
+https://timestamp-microservice.simobonvalot.repl.co/
